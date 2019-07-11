@@ -1,0 +1,17 @@
+{
+  "name": "create-password",
+  "main": "index.js",
+  "author": "Sam Price <gdkoco1@gmail.com>",
+  "version": "0.1.0",
+  "license": "MIT",
+  "bin": "./cli.js",
+  "bugs": {
+    "email": "gdkoco1@gmail.com",
+    "url": "https://github.com/hub-sp/create-password/issues"
+  },
+  "repository": "github:hub-sp/create-password",
+  "dependencies": {
+    "arg": "~4.1.0",
+    "inquirer": "~6.4.1"
+  }
+}
