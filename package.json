@@ -2,7 +2,7 @@
   "name": "create-password",
   "main": "index.js",
   "author": "Sam Price <gdkoco1@gmail.com>",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "license": "MIT",
   "bin": "./cli.js",
   "bugs": {
